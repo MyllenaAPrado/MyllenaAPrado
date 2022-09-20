@@ -1,6 +1,6 @@
 ### 👋 Hii! Welcome to my Github.
- My name is Myllena and I am passionate about learn new things.
- I am a mechatronics engineer.
+ - My name is Myllena and I am passionate about learn new things.
+ - I am a mechatronics engineer.
 
 <!--
 **MyllenaAPrado/MyllenaAPrado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
