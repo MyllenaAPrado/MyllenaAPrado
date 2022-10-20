@@ -2,7 +2,7 @@
  - Welcome to my github!
  - :woman_technologist: I am a mecathronics enginner who loves software 
  - :computer: I worked in many diferrente possitons: developing software, acting in support of software, and with hardware.
- - :iphone: Today, I am focus on mobile development and I want to get back into the field of development software.
+ - :iphone: Today, I am focus on mobile development and I want to get back into the field of software development.
  - I have some projects in github, feel free to explore them :blush:
 
 <!--
