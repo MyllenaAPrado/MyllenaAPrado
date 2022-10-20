@@ -1,6 +1,9 @@
-### 👋 Hii! Welcome to my Github.
- - My name is Myllena and I am passionate about learn new things.
- - I am a mechatronics engineer.
+### 👋 Hii! My name is Myllena
+ - Welcome to my github!
+ - :woman_technologist: I am a mecathronics enginner who loves software 
+ - :computer: I worked in many diferrente possitons: developing software, acting in support of software, and with hardware.
+ - :iphone: Today, I am focus on mobile development and I want to get back into the field of development software.
+ - I have some projects in github, feel free to explore them :blush:
 
 <!--
 **MyllenaAPrado/MyllenaAPrado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
