@@ -5,7 +5,7 @@
  - Welcome to my github!
  - :woman_technologist: I am a mecathronics enginner who loves software 
  - :computer: I worked in many diferrente possitons: developing software, acting in support of software, and with hardware.
- - I’m currently working with support and development of software, but my goal is be full time developer.
+ - I’m currently working with support and development of software, but my goal is to be a full time developer.
  - I have some projects in github, feel free to explore them :blush:
 
 
