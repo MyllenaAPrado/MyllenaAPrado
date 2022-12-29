@@ -1,4 +1,4 @@
-### 👋 Hii! I am Myllena 
+### 👋 Hi! I am Myllena 
 
 ![](https://komarev.com/ghpvc/?username=MyllenaAPrado&color=ff69b4&style=plastic&label=visitors)
 
