@@ -1,12 +1,10 @@
-### 👋 Hi! I am Myllena 
-
 ![](https://komarev.com/ghpvc/?username=MyllenaAPrado&color=ff69b4&style=plastic&label=visitors)
 
- - Welcome to my github!
- - :woman_technologist: I am a mecathronics enginner who loves software 
- - :computer: I worked in many diferrente possitons: developing software, acting in support of software, and with hardware.
- - I’m currently working with support and development of software.
- - I have some projects in github, feel free to explore them :blush:
+ - Welcome to my GitHub!
+ - :woman_technologist: I am a pHd student and mechatronics engineer.
+ - :computer: I worked in many different positions: developing software, acting in support of software, and with hardware.
+ - I’m currently a Ph.D. student at Texas State University.
+ - I have some projects in GitHub, feel free to explore them :blush:
 
 
 
