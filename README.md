@@ -1,8 +1,8 @@
 ### Welcome to my GitHub!
- - :woman_technologist: I am a pHd student and mechatronics engineer.
+ - :woman_technologist: I am a Ph.D. student and a mechatronics engineer.
  - :computer: I worked in many different positions: developing software, acting in support of software, and with hardware.
- - I’m currently a Ph.D. student at Texas State University.
- - I have some projects in GitHub, feel free to explore them :blush:
+ - :mortar_board: I’m a Ph.D. student at Texas State University.
+ - I have some projects on GitHub, feel free to explore them :blush:
 
 
 
