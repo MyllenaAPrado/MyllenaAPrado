@@ -1,23 +1,6 @@
 ### Welcome to my GitHub!
- - :woman_technologist: I have background in computer science and control and automation enginner. Current i am focus on computer vision field.
- - :computer: I worked with a software dveloper and suporter with a partnership of ingenico. Since last year I change my carrer to work with image and video procesing. I have explore image quality assesment. But here you gonna find some jobs in different fields.
+ - :woman_technologist:  I have a background in computer science and control engineering. Currently, I'm focused on the computer vision field.
+ - :computer:  I worked as a software developer and supporter in partnership with Ingenico. Since last year, I shifted my career to work with image and video processing. I'm exploring image quality assessment, but you'll also find some projects in other areas here.
  - :mortar_board: I’m a Ph.D. student at Texas State University.
- - I have some projects on GitHub, feel free to explore them :blush:
+ -  🚀 Feel free to explore my projects on GitHub! 
 
-
-
-
-<!--
-**MyllenaAPrado/MyllenaAPrado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
