@@ -1,6 +1,6 @@
 ### Welcome to my GitHub!
- - :woman_technologist: I am a Ph.D. student and a mechatronics engineer.
- - :computer: I worked in many different positions: developing software, acting in support of software, and with hardware.
+ - :woman_technologist: I have background in computer science and control and automation enginner. Current i am focus on computer vision field.
+ - :computer: I worked with a software dveloper and suporter with a partnership of ingenico. Since last year I change my carrer to work with image and video procesing. I have explore image quality assesment. But here you gonna find some jobs in different fields.
  - :mortar_board: I’m a Ph.D. student at Texas State University.
  - I have some projects on GitHub, feel free to explore them :blush:
 
