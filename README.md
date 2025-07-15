@@ -10,17 +10,9 @@
 
 🎓 **About Me**
 
-I’m a Ph.D. student in Computer Science at Texas State University, with a passion for image quality assessment, computer vision, and cutting-edge deep learning techniques. My academic journey started in Control and Automation Engineering, and since then, I’ve transitioned from software engineering into more research-focused development.
+I’m a Ph.D. student in Computer Science at Texas State University, with a passion for image quality assessment, computer vision, and cutting-edge deep learning techniques. 
 
-🔬 My current work explores how we perceive visual data. I'm building methods to assess the quality of Light Field Images and Neural Radiance Fields (NeRFs) using models like Vision Transformers, and Graph Convolutional Networks. I'm driven by curiosity and the potential of AI to understand our visual world more deeply.
-
----
-
-🛠 **Things I’ve Built**
-
-- 🌀 [**360RAT**](https://github.com/MyllenaAPrado/360RAT): A desktop annotation tool for labeling Regions of Interest in 360° videos using PyQt5 + OpenCV.
-- 🔬 **NASSBLiF**: A lightweight, state-of-the-art model for no-reference Light Field Image Quality Assessment using Neighborhood Attention and Scale Swin Transformers. (To appear @ ICIP 2025)
-- 🧠 **ViGBLiF**: A graph-based approach for NR-LFIQA combining Vision Transformers and GCNs. (To appear @ QoMEX 2025)
+🔬 My current work explores how we perceive visual data. I'm building methods to assess the quality of Light Field Images and Neural Radiance Fields (NeRFs) using models like Vision Transformers, and Graph Convolutional Networks. 
 
 ---
 
