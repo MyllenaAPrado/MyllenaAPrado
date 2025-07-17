@@ -20,7 +20,6 @@ I’m a Ph.D. student in Computer Science at Texas State University, with a pass
 
 - Multiview and immersive image processing 📷  
 - NeRFs, Gaussian Splatting, and 3D representations 🧊  
-- Smart tools for annotation, analysis, and visualization 🛠  
 - Applying AI to practical problems in imaging and media quality 🤖
 
 ---
