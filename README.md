@@ -15,5 +15,3 @@ I’m a Ph.D. student in Computer Science at Texas State University, with a pass
 🔬 My current work explores how we perceive visual data. I'm building methods to assess the quality of Light Field Images using models like Vision Transformers, and Graph Convolutional Networks. 
 
 
-
-_Thanks for visiting my profile! ⭐ 
