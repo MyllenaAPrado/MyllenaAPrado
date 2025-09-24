@@ -16,4 +16,4 @@ I’m a Ph.D. student in Computer Science at Texas State University, with a pass
 
 
 
-_Thanks for visiting my profile! ⭐ If you find my projects interesting, feel free to follow or reach out._
+_Thanks for visiting my profile! ⭐ 
